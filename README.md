@@ -13,4 +13,3 @@ If your Kaizo IronMON run dies, you have the option to step down the difficulty 
 | Four-Item Rule              | During battle, a combination of four items are permitted for use. For dungeon battles (such as Gym trainers or the Kimono Girls), only four may be used until the "boss fight".              |
 | Held Items                  | All held items (except Leftovers) are permitted for use in battle, but only on the main Pokémon.                                                                                             |
 | Teachable TMs               | All teachable TMs are permitted for use on the main Pokémon.                                                                                                                                 |
-| Shiny Clause                | Any shiny Pokémon may be caught or killed for experience.                                                                                                                                    |
