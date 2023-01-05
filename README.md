@@ -1,7 +1,7 @@
-# Quazi-Kaizo IronMON
+# Quasi-Kaizo IronMON
 A sub-ruleset for Kaizo IronMON
 
-If your Kaizo IronMON run dies, you have the option to step down the difficulty to be able to "casually" play through the game. This allows everyone to have a second chance if they deem the Pokémon worthy of the Quazi-Kaizo status, allowing viewers to see the epic battles we would have tried to beat Kaizo-style.
+If your Kaizo IronMON run dies, you have the option to step down the difficulty to be able to "casually" play through the game. This allows everyone to have a second chance if they deem the Pokémon worthy of the Quasi-Kaizo status, allowing viewers to see the epic battles we would have tried to beat Kaizo-style.
 
 ### Main Rule Changes
 | Rule                        | Details                                                                                                                                                                                      |
