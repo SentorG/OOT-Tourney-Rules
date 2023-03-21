@@ -11,5 +11,5 @@ If your Kaizo IronMON run dies, you have the option to step down the difficulty 
 | Switching/Sacking | HM friends are permitted to be switched in or sacked during battle to allow a chance to heal. The HM friend cannot use an attacking move. Helpful abilities are permitted. |
 | New Permitted Items | Only Poké Balls, Repels, Super Potions and Revives are permitted for purchasing. However, flutes remain banned. |
 | Four-Item Rule | During battle, a combination of four items are permitted for use. For dungeon battles (such as Gym trainers or the Kimono Girls), only four may be used until the "boss fight". |
-| Held Items | All held items (except Leftovers) are permitted for use in battle, but only on the main Pokémon. |
+| Held Items | All held items (except Leftovers, Shell Bell & Eviolite) are permitted for use in battle, but only on the main Pokémon. |
 | Teachable TMs | All teachable TMs are permitted for use on the main Pokémon. |
