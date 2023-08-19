@@ -12,7 +12,7 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
 |:-:|:-:|:-:|:-:|
-| **#1** | **/** | **/** | **/** |
+| **#1** | **Magikarp** | **Adamant, Jolly** | **/** |
 
 **Please read the table of contents below to understand what is required in order to participate in the competition.**
 ## Rules:
@@ -31,6 +31,6 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 ## Score Submit Information:
 | **Value** | **Details** |
 |:-:|-|
-| IV Sum | <br> The total number of IVs the Pokémon possesses must be submitted as the first value. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/IV%20Sum.jpg)|
-| Nature Bonus | <br> Specific natures of the chase Pokémon will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Nature%20%26%20OT.jpg) |
-| Extra Credit | <br> Other values, such as shiny value, will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Extra%20Credit%20Shinies.jpg) |
+| IV Sum | <br> The total number of IVs the Pokémon possesses must be submitted as the first value. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/IV%20Sum.jpg) |
+| Nature Bonus | <br> Specific natures of the chase Pokémon will gain extra points. <br> <br> **+10 points awarded for a perfect nature.** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Nature%20%26%20OT.jpg)  |
+| Extra Credit | <br> Other values, such as shiny value, will gain extra points. <br> <br> **+20 points awarded for a regular shiny, +50 points for a secret shiny.** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Extra%20Credit%20Shinies.jpg) |
