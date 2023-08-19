@@ -23,7 +23,7 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 | One Character | We understand players may have multiple accounts. Participants are limited to using only **one character** to find and submit a score from. |
 | Limited Time | Participants have a limited time to catch the Pokémon they wish to submit. Submissions will close and no more scores can be entered. |
 | No Changes | All Pokémon submissions must remain unchanged (untrained/unevolved...). Evolved or unevolved forms of the **chase Pokémon** will not be accepted as a valid entry. |
-| OG OT | Participants must be the original onwer of the Pokémon. |
+| OG OT | Participants must be the original owner of the Pokémon. |
 | Tie Event | In the event of a tie, the winner will be determined by the **earliest catch time**. |
 
 ## Score Submit Information:
