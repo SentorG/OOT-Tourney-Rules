@@ -29,6 +29,6 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 ## Score Submit Information:
 | **Value** | **Details** |
 |-|-|
-| IV Sum | The total number of IVs the Pokémon possesses must be submitted as the first value. <br> ![image]()|
-| Nature Bonus | Specific natures of the chase Pokémon will gain extra points. <br> ![image]() |
-| Extra Credit | Other values, such as shiny value, will gain extra points.  <br> ![image]() |
+| IV Sum | <br> The total number of IVs the Pokémon possesses must be submitted as the first value. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/IV%20Sum.jpg)|
+| Nature Bonus | <br> Specific natures of the chase Pokémon will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Nature%20%26%20OT.jpg) |
+| Extra Credit | <br> Other values, such as shiny value, will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Extra%20Credit%20Shinies.jpg) |
