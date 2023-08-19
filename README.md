@@ -12,7 +12,7 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
 |:-:|:-:|:-:|:-:|
-| **#1** | **Magikarp** | **Adamant, Jolly** | **/** |
+| **1** | **Magikarp** | **Adamant, Jolly** | **/** |
 
 **Please read the table of contents below to understand what is required in order to participate in the competition.**
 ## Rules:
