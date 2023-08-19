@@ -1,5 +1,7 @@
 # OcarinaOfTime [OOT] Tournament Rules Hub
 
+**Sponsored by Natalie's Berries** <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/LogoHousedSmall.png)
+
 PokeMMO is a fan-made application which stitches together **FireRed, Emerald, Platinum, White and HeartGold (just Johto)**. Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
 
 Please join Sentor's Discord server in order to submit scores and supporting evidence for grading: **https://discord.gg/gdDPQ53Vps**
@@ -9,13 +11,13 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
-|-|-|-|-|
+|:-:|:-:|:-:|:-:|
 | **#1** | **/** | **/** | **/** |
 
 **Please read the table of contents below to understand what is required in order to participate in the competition.**
 ## Rules:
 | **Rule** | **Details** |
-|-|-|
+|:-:|-|
 | Have Fun 😁 | We have put these events on to have **friendly competition between PokeMMO players**. Please don't take it seriously- we're here to have fun! |
 | One Entry | Only **ONE** Pokémon may be submitted as an entry. Once submitted, that Pokémon is locked in as the **final choice**! Participants may not resubmit after posting a score. |
 | Valid Submit | Entries must be posted in the **#pokemmo channel** in Sen's Discord with the appropriate information. |
@@ -28,7 +30,7 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 
 ## Score Submit Information:
 | **Value** | **Details** |
-|-|-|
+|:-:|-|
 | IV Sum | <br> The total number of IVs the Pokémon possesses must be submitted as the first value. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/IV%20Sum.jpg)|
 | Nature Bonus | <br> Specific natures of the chase Pokémon will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Nature%20%26%20OT.jpg) |
 | Extra Credit | <br> Other values, such as shiny value, will gain extra points. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Extra%20Credit%20Shinies.jpg) |
