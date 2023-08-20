@@ -1,13 +1,12 @@
 # OcarinaOfTime [OOT] Tournament Rules Hub
 
-**Sponsored by Team RR & Natalie's Berries** <br>  ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/team_rocket_R.png) ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/LogoHousedSmall.png)
+###### Sponsored by Team RR & Natalie's Berries <br>  ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/team_rocket_R.png) ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/LogoHousedSmall.png)
 
-PokeMMO is a fan-made application which stitches together **FireRed, Emerald, Platinum, White and HeartGold (just Johto)**. Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
+#### PokeMMO is a fan-made application which stitches together FireRed, Emerald, Platinum, White and HeartGold (just Johto). <br> Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
 
-Please join Sentor's Discord server in order to submit scores and supporting evidence for grading: **https://discord.gg/gdDPQ53Vps**
-<br> Scores must be submitted to the **#score-submit channel** at the bottom of the **PokeMMO category**.
+#### Please join Sentor's Discord server in order to submit scores and supporting evidence for grading: https://discord.gg/gdDPQ53Vps <br> Scores must be submitted to the #score-submit channel at the bottom of the PokeMMO category.
 
-Find the leaderboard here: **https://bit.ly/3s9cagH**
+### Find the leaderboard here: **https://bit.ly/3s9cagH**
 
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
