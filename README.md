@@ -23,6 +23,7 @@
 | Hold On! | **Please do not submit Pokémon early!!** It would be a great shame if a Pokémon was found to be better than the one already submitted. |
 | One Character | We understand players may have multiple accounts. Participants are limited to using only **one character** to find and submit a score from. |
 | Limited Time | Participants have a limited time to catch the Pokémon they wish to submit. Submissions will close and no more scores can be entered. |
+| Banned Abilities | Participants must not use Synchronise to manipulate a specific nature onto the submission Pokémon. We understand that we do not have any control over this, but it is expected of participants not to cheat. |
 | Catch 'Em All | Under no circumstances can a participant breed their submission. All Pokémon must be caught in the wild. |
 | No Changes | All submissions must remain unchanged (untrained/unevolved...). Evolved or unevolved forms of the **chase Pokémon** will not be accepted as a valid entry. |
 | OG OT | Participants must be the original owner of the Pokémon. |
