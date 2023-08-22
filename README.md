@@ -1,6 +1,6 @@
 # OcarinaOfTime [OOT] Tournament Rules Hub
 
-###### Sponsored by Team RR & Natalie's Berries <br>  ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/team_rocket_R.png) ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/LogoHousedSmall.png)
+###### Sponsored by Team RR & Natalie's Berries <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Logos.png)
 
 #### PokeMMO is a fan-made application which stitches together FireRed, Emerald, Platinum, White and HeartGold (just Johto). <br> Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
 
