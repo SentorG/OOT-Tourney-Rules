@@ -11,7 +11,7 @@
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
 |:-:|:-:|:-:|:-:|
-| **1** | **Magikarp** | **Adamant, Jolly** | **/** |
+| **1** | **Magikarp** | **Adamant, Jolly** | **25th - 29th August** |
 
 #### Please read the table of contents below to understand what is required in order to participate in the competition.
 ## Rules:
