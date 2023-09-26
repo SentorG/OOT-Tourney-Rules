@@ -1,20 +1,20 @@
 # OcarinaOfTime [OOT] Tournament Rules Hub
 
-###### Sponsored by Team RR & Natalie's Berries <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Logos.png)
+Sponsored by Team RR & Natalie's Berries <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Logos.png)
 
-#### PokeMMO is a fan-made application which stitches together FireRed, Emerald, Platinum, White and HeartGold (just Johto). <br> Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
+PokeMMO is a fan-made application which stitches together FireRed, Emerald, Platinum, White and HeartGold (just Johto). <br> Players can choose which region they wish to play in and can seamlessly travel between the others. In the tournament, players can choose **any region** they want to find the Pokémon they would like to submit.
 
-#### Please join Sentor's Discord server in order to submit scores and supporting evidence for grading: https://discord.gg/gdDPQ53Vps <br> Scores must be submitted to the #score-submit channel at the bottom of the PokeMMO category.
+Please join Sentor's Discord server in order to submit scores and supporting evidence for grading: https://discord.gg/gdDPQ53Vps <br> Scores must be submitted to the #score-submit channel at the bottom of the PokeMMO category.
 
-### Find the leaderboard here: **https://bit.ly/3s9cagH**
+Find the leaderboard here: **https://bit.ly/3s9cagH**
 
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
 |:-:|:-:|:-:|:-:|
 | **2** | **Horsea** | **Adamant, Modest, Timid** | **29th Sep - 1st Oct** |
 
-#### Please read the table of contents below to understand what is required in order to participate in the competition.
 ## Rules:
+Please read the table of contents below to understand what is required in order to participate in the competition.
 | **Rule** | **Details** |
 |:-:|-|
 | Have Fun 😁 | We have put these events on to have **friendly competition between PokeMMO players**. Please don't take it seriously- we're here to have fun! |
@@ -31,10 +31,10 @@
 | Tie Event | In the event of a tie, the winner will be determined by the **earliest catch time**. |
 
 ## Score Submit Information:
-#### To see an example of a Discord submission, please see the pinned comments in the #score-submit channel.
+To see an example of a Discord submission, please see the pinned comments in the #score-submit channel.
 | **Value** | **Details** |
 |:-:|-|
-| Mail Submission | <br> Submissions are required to be sent to a tournament organiser for grading. Go to a PC and click **Mail**. <br> All submissions will be sent back to the owner after grading is complete. <br> <br> Staff members include: **SentorG**, **FrankStarrr** & **Jurbski** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Mail%20Submission.jpg) |
 | IV Sum | <br> The total number of IVs the Pokémon possesses must be submitted. <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/IV%20Sum.jpg) |
 | Nature Bonus | <br> Specific natures of the **chase Pokémon** will gain extra points. <br> <br> **+10 points awarded for a perfect nature.** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Nature%20%26%20OT.jpg)  |
 | Extra Credit | <br> Other values, such as shiny value, will gain extra points. <br> <br> **+20 points awarded for a regular shiny, +50 points for a secret shiny.** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Extra%20Credit%20Shinies.jpg) |
+| Mail Submission | <br> Submissions are required to be sent to a tournament organiser for grading. Go to a PC and click **Mail**. <br> All submissions will be sent back to the owner after grading is complete. <br> <br> Staff members include: **SentorG**, **FrankStarrr** & **Jurbski** <br> <br> ![image](https://github.com/SentorG/OOT-Tourney-Rules/blob/main/Mail%20Submission.jpg) |
