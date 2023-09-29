@@ -24,6 +24,7 @@ Please read the table of contents below to understand what is required in order 
 | One Character | We understand players may have multiple accounts. Participants are limited to using only **one character** to find and submit a score from. |
 | Limited Time | Participants have a limited time to catch the Pokémon they wish to submit. Submissions will close and no more scores can be entered. |
 | Banned Ability | Participants must not use Synchronise to manipulate a specific nature onto the submission Pokémon. We understand that we do not have any control over this, but it is expected of participants not to cheat. |
+| Banned Item | Lures may not be allowed to manipulate high IV count on submissions. |
 | Catch 'Em All | Under no circumstances can a participant breed their submission. All Pokémon must be caught in the wild. |
 | No Alpha | If there happens to be an Alpha spawn of the **Chase Pokémon** at the time of the event, it is banned as a submission Pokémon. |
 | No Changes | All submissions must remain unchanged (untrained/unevolved...). Evolved or unevolved forms of the **chase Pokémon** will not be accepted as a valid entry. |
