@@ -19,7 +19,8 @@ Please read the table of contents below to understand what is required in order 
 |:-:|-|
 | Have Fun 😁 | We have put these events on to have **friendly competition between PokeMMO players**. Please don't take it seriously- we're here to have fun! |
 | One Entry | Only **ONE** Pokémon may be submitted as an entry. Once submitted, that Pokémon is locked in as the **final choice**! Participants may not resubmit after posting a score. |
-| Valid Submit | Entries must be posted in the **#score-submit channel** in Sen's Discord with the required information. |
+| Valid Submit | Entries must be posted in the **#score-submit channel** in Sen's Discord with the required information. <br>
+Submissions may be entered as in-game Links to an administrator, but participants must check the admin is online and have received. Mail is preferred, but if you feel like you don't want to, the option is there. |
 | Hold On! | **Please do not submit Pokémon early!!** It would be a great shame if a Pokémon was found to be better than the one already submitted. |
 | One Character | We understand players may have multiple accounts. Participants are limited to using only **one character** to find and submit a score from. |
 | Limited Time | Participants have a limited time to catch the Pokémon they wish to submit. Submissions will close and no more scores can be entered. |
