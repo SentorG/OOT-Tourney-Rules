@@ -11,7 +11,7 @@ Find the leaderboard here: **https://bit.ly/3s9cagH**
 ## Current Tournament Information:
 | **Season #** | **Chase Pokémon** | **Nature Bonus** | **Date** |
 |:-:|:-:|:-:|:-:|
-| **2** | **Horsea** | **Adamant, Modest, Timid** | **29th Sep - 1st Oct** |
+| **3** | **Shuppet & Duskull** | **Adamant, Jolly, Brave** | **27th - 29th Oct** |
 
 ## Rules:
 Please read the table of contents below to understand what is required in order to participate in the competition.
